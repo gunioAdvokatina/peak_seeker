@@ -14,7 +14,12 @@
 ## Инсталация
 1. Клонирайте репозиторито: `git clone https://github.com/gunioAdvokatina/peak_seeker.git`
 2. Инсталирайте зависимости: `flutter pub get`
-3. Добавете Google Maps API ключ в `lib/config.dart`.
+3. Създайте `lib/config.dart` с вашия Google Maps и OpenWeather API ключове:
+   ```dart
+   class Config {
+     static const String googleApiKey = 'YOUR_API_KEY';
+     static const String openWeatherApiKey = 'YOUR_API_KEY';
+   }
 4. Стартирайте: `flutter run`
 
 ## Зависимости
