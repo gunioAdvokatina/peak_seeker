@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787310742633",
+    "project_id": "peak-seeker",
+    "storage_bucket": "peak-seeker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787310742633:android:0fba2098feedf3e126a6f8",
+        "android_client_info": {
+          "package_name": "com.example.peakseeker.peak_seeker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMmbJ9w1Iyw266-yoq-ooTsVISJy_lCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
